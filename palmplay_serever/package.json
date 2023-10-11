@@ -1,0 +1,24 @@
+{
+  "name": "palmplay_serever",
+  "version": "1.0.0",
+  "description": "好玩吧后台项目重构v1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.ehw8.com:management/palmplay_serever.git"
+  },
+  "author": "topbrids",
+  "license": "ISC",
+  "dependencies": {
+    "compilec": "^1.1.0",
+    "crypto-js": "^3.1.9-1",
+    "moment": "^2.24.0",
+    "mysql": "^2.16.0",
+    "request": "^2.88.0",
+    "serverc": "^0.1.3",
+    "uuid": "^3.3.2"
+  }
+}
